@@ -5,4 +5,4 @@ merged_dict = dict1.copy()
 merged_dict.update(dict2)
 
 
-print("Merged Dictionary):", merged_dict)
+print("Merged Dictionary :", merged_dict)
