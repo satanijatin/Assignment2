@@ -6,7 +6,6 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
-
 number=int(input("Enter Number :"))
 result = factorial(number)
 print("The factorial of is :",result)
