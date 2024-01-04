@@ -6,7 +6,6 @@ def is_sublist(main_list, sublist):
             return True
     return False
 
-
 main_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 sub_list = [4, 5, 6,10]
 
