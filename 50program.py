@@ -1,5 +1,3 @@
-
-
 def checkperfectnumber(n):
     sum1 = 0
     for i in range(1, n):
@@ -9,7 +7,6 @@ def checkperfectnumber(n):
         print("The number is a Perfect number!")
     else:
         print("The number is not a Perfect number!")
-
 
 n = int(input("Enter any number: "))
 checkperfectnumber(n)
