@@ -1,7 +1,5 @@
-
 def isPalindrome(s):
 	return s == s[::-1]
-
 
 s = str(input("Enter String : "))
 ans = isPalindrome(s)
