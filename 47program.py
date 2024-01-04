@@ -9,11 +9,8 @@ def create_dictionary_from_string(input_string):
 
     return result_dict
 
-
 sample_string = 'w3resource'
 
-
 result = create_dictionary_from_string(sample_string)
-
 
 print(result)
