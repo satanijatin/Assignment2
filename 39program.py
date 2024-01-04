@@ -4,5 +4,4 @@ dict2 = {'b': 3, 'c': 4}
 merged_dict = dict1.copy() 
 merged_dict.update(dict2)
 
-
 print("Merged Dictionary :", merged_dict)
